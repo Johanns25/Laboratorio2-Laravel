@@ -72,8 +72,7 @@ Implementar un sistema de autenticación funcional usando Laravel.
 ✅ Inicio de sesión
 ✅ Validación de credenciales
 
-📸 **Captura del sistema:**
-*Agrega aquí una imagen de tu proyecto funcionando*
+![Imagen del proyecto](./public/imgLaravel.png)
 
 ---
 
